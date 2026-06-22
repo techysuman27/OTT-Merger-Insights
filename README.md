@@ -20,7 +20,7 @@ This project addresses the strategic imperative for consolidation. By analyzing 
 
 ## 📺 Live Dashboard
 
-🔗 [Explore Interactive Power BI Dashboard]([https://lnkd.in/gVTmKpnh](https://app.powerbi.com/view?r=eyJrIjoiNTg4NzE2NjktYjczMS00OGNjLThkYzYtN2Q0ZjI5ZTQyZmI4IiwidCI6ImFkMTE4ODdiLWI5MTMtNDU2Zi1hY2FiLWNiNjEzNmJjODk3ZiJ9))
+🔗 [Explore Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTg4NzE2NjktYjczMS00OGNjLThkYzYtN2Q0ZjI5ZTQyZmI4IiwidCI6ImFkMTE4ODdiLWI5MTMtNDU2Zi1hY2FiLWNiNjEzNmJjODk3ZiJ9)
 
 ---
 
